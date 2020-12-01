@@ -11,7 +11,7 @@ For fun, I’m currently working on building a bunch of open-source AI toolkits.
 
 
 Upcoming projects:
-- 🎓 I will be teaching "Introduction to Machine Learning Systems" at Tezpur University (Spring 2021).
+- 🎓 I will be teaching "[Introduction to Machine Learning Systems](https://github.com/arnab64/introduction-to-machine-learning-engineering)" at Tezpur University (Spring 2021).
 - 📹 Starting my YouTube series "The Data ViewPoint" soon.
 
 ![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnab64&show_icons=true&hide_border=true) 
