@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arnab!
 
-I'm a Machine Learning Engineer @eBaySearch. I solve product problems in ranking, advertising, monetization using ML and AI.   
+I'm a Data Scientist (previously Machine Learning Engineer) at eBay Inc. I solve product problems in ranking, advertising, monetization using ML and AI.   
 
 For fun, I’m currently working on building a bunch of open-source AI toolkits. Apart from that, I am interested in AI research, and I'm especially focused on building end products using ML and AI. eCommerce is my domain of expertise, and a field I personally like, but *Gaming, Art and Linguistics* is what I am interested in building AI products for. 
 - [doViz](https://github.com/quantdodo/doViz) : Real-time financial data analysis in Python. (chief Open-Source contributor)💡
