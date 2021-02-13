@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Arnab!
 
-I'm a Data Scientist (previously Machine Learning Engineer) at eBay Inc. I solve product problems in ranking, advertising, monetization using ML and AI.   
+I'm a Data Scientist (previously Machine Learning Engineer) at eBay Inc. I'm in the Search Science group and I solve product problems in search ranking, advertising, ads monetization using ML and AI. 
 
-For fun, I’m currently working on building a bunch of open-source AI toolkits. Apart from that, I am interested in AI research, and I'm especially focused on building end products using ML and AI. eCommerce is my domain of expertise, and a field I personally like, but *Gaming, Art and Linguistics* is what I am interested in building AI products for. 
+I am interested in **Data Visualization, Productionizing ML/DL models, ML for Music and Gaming**
+I consider myself an ML-fullstack engineer. Check out a few open-source AI toolkits I work on or fun. 
 - [doViz](https://github.com/quantdodo/doViz) : Real-time financial data analysis in Python. (chief Open-Source contributor)💡
 - [fling](https://github.com/fastboardAI/fling) : Linguistic feature extraction for domain specific tasks. 💡 
 - [badPlanet](https://github.com/arnab64/badPlanetKivy) : Classic Asteroids renewed. 🚀
