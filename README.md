@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Arnab!
 
-I'm a Data Scientist (previously Machine Learning Engineer) at eBay Inc. I'm in the Search Science group and I solve product problems in search ranking, advertising, ads monetization using ML and AI. 
-I'm currently involved with Motion Tracking and Pose Estimation for Animation/VFX.
+I'm a Data Scientist (previously Machine Learning Engineer) at eBay Inc. I'm in the Search Science group and I solve product problems in search ranking, advertising, ads monetization using ML and AI. I'm currently involved with Motion Tracking and Pose Estimation for Animation/VFX, and that is something I enjoy rather than doing boring stuff for big companies in a confined environment.
 
 I consider myself more of an ML engineer and less of a scientist. Check out a few open-source AI toolkits I work on or fun. 
 - [doViz](https://github.com/quantdodo/doViz) : Real-time financial data analysis in Python. (chief Open-Source contributor)💡
